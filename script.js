@@ -66,7 +66,6 @@ document.getElementById('ReloadButton').addEventListener('click' , function(){
 })
 
 document.getElementById('WinnerButton').addEventListener('click' , function(){
-    Scores();
 
     if(Score1>Score2)
     {
